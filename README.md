@@ -4,4 +4,4 @@ playing around
 2. second commit!
 
 ## line 1 on feature branch!
-## update from local machin!
+## update from local machine!
